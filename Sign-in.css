@@ -1,0 +1,99 @@
+body{
+    background-image:
+    url('https://blog.kakaocdn.net/dn/mcHlh/btrGuoN3hLK/cijxmlUo2GB3gwLsb7VLAk/img.gif'),
+    url('https://blog.kakaocdn.net/dn/mcHlh/btrGuoN3hLK/cijxmlUo2GB3gwLsb7VLAk/img.gif'),
+    url('https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbqQl4I%2FbtrGt2xFyv4%2Fx1YHf4cpLwy12IW7yL7hN0%2Fimg.jpg');           
+    background-position: 0px 0px, 1400px 600px,0px 0px;
+    background-repeat: no-repeat;
+    background-size: 500px,500px,cover;
+}
+
+div{
+    margin-top: 200px;
+}
+
+#Title{
+    color:rgb(90, 65, 53);
+    text-shadow: 0px 0px 10px rgb(99, 66, 22);
+    font-family: 'Koreageulggol';
+    font-size: 60px;
+}
+
+#id{
+    width:300px;
+    height:1;
+    background:rgb(203, 126, 57);
+}
+#id::placeholder{
+    font-size: 23px;
+    font-family: 'Handletter';
+    color:rgb(44, 26, 26);
+}
+
+#pw{
+    width:300px;
+    height:1;
+    background:rgb(203, 126, 57);
+}
+#pw::placeholder{
+    font-size: 23px;
+    font-family: 'Handletter';
+    color:rgb(44, 26, 26);
+}
+
+#pw2{
+    width:300px;
+    height:1;
+    background:rgb(203, 126, 57);
+}
+#pw2::placeholder{
+    font-size: 23px;
+    font-family: 'Handletter';
+    color:rgb(44, 26, 26);
+}
+
+#nname{
+    width:300px;
+    height:1;
+    background:rgb(203, 126, 57);
+}
+#nname::placeholder{
+    font-size: 23px;
+    font-family: 'Handletter';
+    color:rgb(44, 26, 26);
+}
+
+#email{
+    width:300px;
+    height:1;
+    background:rgb(203, 126, 57);
+}
+#email::placeholder{
+    font-size: 23px;
+    font-family: 'Handletter';
+    color:rgb(44, 26, 26);
+}
+
+#mobile{
+    width:300px;
+    height:1;
+    background:rgb(203, 126, 57);
+}
+#mobile::placeholder{
+    font-size: 23px;
+    font-family: 'Handletter';
+    color:rgb(44, 26, 26);
+}
+
+@font-face {
+    font-family: 'Koreageulggol';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_07@1.0/Koreageulggol.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Handletter';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_05@1.0/Handletter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

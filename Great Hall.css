@@ -1,0 +1,109 @@
+body{
+    background-image:url('https://blog.kakaocdn.net/dn/dmpp5e/btrGuTNJ718/sqlr2Js25bm3AMqZTMIx8K/img.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Hogwarts{
+    margin-top: 20px;
+    width:400px;
+    filter:drop-shadow(0px 0px 10px rgb(255, 194, 53));
+}
+
+#tb01{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #000000;
+    background-color: rgba(255, 255, 255, 0.2);
+    width:1000px;
+    height:500px;
+    color:rgb(255, 255, 255);
+}
+
+#C{
+    font-size: 25px;
+    font-family: 'Koreageulggol';
+    text-shadow:2px 0px 10px #000000;
+}
+#M{
+    font-size: 25px;
+    font-family: 'Koreageulggol';
+    text-shadow:2px 0px 10px #000000;
+}
+
+th{
+    font-family: 'Koreageulggol';
+    font-size: 40px;
+    text-shadow:2px 0px 10px #000000;
+}
+tr{
+    border: 0px solid #000000;
+}
+td{ 
+    border: 0px solid #000000;
+}
+
+#chat01{
+    width: 50%;
+    height: 370px;
+    color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+#chat02{
+    width: 50%;
+    height: 370px;
+    color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+#chat03{
+    margin-bottom: 15px;
+    width: 61%;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.Gryffindor{
+    margin-top: 40px;
+    width:140px;
+    filter:drop-shadow(0px 0px 10px rgb(255, 194, 53));
+}
+.Gryffindor:hover{
+    margin-top: -10px;
+    filter:drop-shadow(0px 0px 20px rgb(236, 60, 60));
+}
+
+.Slytherin{
+    margin-top: 40px;
+    width:140px;
+    filter:drop-shadow(0px 0px 10px rgb(255, 194, 53));
+}
+.Slytherin:hover{
+    margin-top: -10px;
+    filter:drop-shadow(0px 0px 20px rgb(18, 159, 37));
+}
+
+.Hufflepuff{
+    margin-top: 40px;
+    width:140px;
+    filter:drop-shadow(0px 0px 10px rgb(255, 194, 53));
+}
+.Hufflepuff:hover{
+    margin-top: -10px;
+    filter:drop-shadow(0px 0px 20px rgb(255, 137, 53));
+}
+
+.Ravenclaw{
+    margin-top: 40px;
+    width:140px;
+    filter:drop-shadow(0px 0px 10px rgb(255, 194, 53));
+}
+.Ravenclaw:hover{
+    margin-top: -10px;
+    filter:drop-shadow(0px 0px 20px rgb(53, 100, 255));
+}
+
+@font-face {
+    font-family: 'Koreageulggol';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_07@1.0/Koreageulggol.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
